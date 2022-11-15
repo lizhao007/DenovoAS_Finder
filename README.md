@@ -3,7 +3,7 @@ The pipeline is developed for classifying the transcriptome with no reference ge
 
 # Installation
 ```
-git clone 
+git clone git@github.com:lizhao007/DenovoAS_Finder.git
 ```
 # Requirment
 BLAST+ and mcl should be installed. Other require python packages should be installed as reminder.
