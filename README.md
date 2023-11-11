@@ -13,7 +13,7 @@ Test.txt and data.fa should be prepared. The test.txt is the alignment result of
 
 # Usage
 ```
-python DenovoAS_Finder.py
+python DenovoAS_Finder.py test.txt data.fa
 ```
 
 # Cite
